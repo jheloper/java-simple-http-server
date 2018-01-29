@@ -1,4 +1,4 @@
-package main.java;
+package simple.http.server;
 
 import java.io.*;
 import java.net.InetSocketAddress;
